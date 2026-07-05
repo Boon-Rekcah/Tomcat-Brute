@@ -28,7 +28,7 @@ The script runs interactively and will prompt you for all required inputs.
 
 | Prompt | Description | Default |
 |---|---|---|
-| Target IP or hostname | IP address or domain of the target | `10.129.136.9` |
+| Target IP or hostname | IP address or domain of the target | `127.0.0.1` |
 | Target port | Port Tomcat is running on | `8080` |
 | Manager path | Specific path to attack, or leave blank to auto-try all | *(blank = auto)* |
 | Stop on first hit | Exit after the first valid credential is found | `y` |
